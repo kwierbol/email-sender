@@ -3,7 +3,6 @@
 # Purpose:  gets data from csv file and automate email sending
 # Usage:    you should generate an application password in Gmail in order to log in,
 #           otherwise authentication failure will occur;
-#           no space in message title allowed
 #
 ##########################################################################################
 
